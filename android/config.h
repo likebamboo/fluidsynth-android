@@ -208,6 +208,7 @@
 /* Define if the compiler supports VLA */
 #define SUPPORTS_VLA
 
+#define OPENSLES_SUPPORT 1
 /* Define to 1 if your processor stores words with the most significant byte
    first (like Motorola and SPARC, unlike Intel and VAX). */
 /* #undef WORDS_BIGENDIAN */
